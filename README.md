@@ -24,7 +24,8 @@ Erro msg:
 ```
 Start test
 Before wrappee dgemm call
-./testDGEMM-withGOTCHA: symbol lookup error: /opt/intel/compilers_and_libraries_2019.3.199/linux/compiler/lib/intel64/libiomp5.so: undefined symbol: ompt_start_tool```
+./testDGEMM-withGOTCHA: symbol lookup error: /opt/intel/compilers_and_libraries_2019.3.199/linux/compiler/lib/intel64/libiomp5.so: undefined symbol: ompt_start_tool
+```
 
 **Testing dlsym without GOTCHA**
 
